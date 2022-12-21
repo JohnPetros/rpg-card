@@ -35,6 +35,7 @@ Card de personagem estilo RPG, contendo informações como nome, classe, nível,
 ### Demonstração
 <div align="center">
     <img width="250" alt="card-rpg-foto-1" src=".github/rpg-card-1.jpg" />
+    &nbsp;&nbsp;&nbsp;
     <img width="250" alt="card-rpg-foto-2" src=".github/rpg-card-2.jpg" />
 </div>
 <hr>
