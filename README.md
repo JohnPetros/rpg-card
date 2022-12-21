@@ -25,8 +25,8 @@
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licenca">Licença</a>
+  <a href="#-execucao">Execucao</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licenca">Licenca</a>
 </p>
 
 ## 🖥️ Projeto
@@ -36,7 +36,7 @@ Card de personagem estilo RPG, contendo informações como nome, classe, nível,
 ### Demonstração
 <div align="center">
     <img width="250" alt="card-rpg-foto-1" src=".github/rpg-card-1.jpg" />
-    <img width="250" alt="card-rpg-foto-2" src=".github/rpg-card-4.jpg" />
+    <img width="250" alt="card-rpg-foto-2" src=".github/rpg-card-2.jpg" />
 </div>
 <hr>
 
