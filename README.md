@@ -21,11 +21,11 @@
 <br>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-rodar-projeto">como-rodar-projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licenca">Licenca</a>
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-rodar-projeto">como-rodar-projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licenca">Licenca</a>
 </p>
 
 ## 🖥️ Projeto
@@ -62,7 +62,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[React Native](https://expo.io/)**
 - **[Expo](https://expo.io/)**
 
-## Execução
+## Como rodar este projeto
 
 ### Pré-requesitos
 
@@ -74,7 +74,7 @@ Antes de baixar o projeto você vai precisar ter instalado na sua máquina as se
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)<br>4
 
-> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo.
+> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo, ou ainda pela plataforma web do Expo acessando este link: [expo.dev](https://git-scm.com).
 
 #### 📟 Rodando o Mobile
 
