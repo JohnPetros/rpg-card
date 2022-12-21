@@ -1,11 +1,103 @@
-# Sample Snack app
+<h1 align="center">
+    Card RPG
+</h1>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<div align="center">
+   <a href="https://github.com/JohnPetros">
+      <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
+   </a>
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/rpg-card">
+   <a href="https://github.com/JohnPetros/rpg-card/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/rpg-card">
+   </a>
+  </a>
+   </a>
+   <a href="https://github.com/JohnPetros/rpg-card/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/rpg-card">
+   </a>
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/rpg-card?style=social">
+</div>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+<br>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licenca">Licença</a>
+</p>
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+## 🖥️ Projeto
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Card de personagem estilo RPG, contendo informações como nome, classe, nível, atributos de força, ataque, resistência e velociade. O card é adaptado para ser visualizado com a tela tanto em posição de paisagem quanto de retrato, podendo o usuário mudar para uma das duas posições ao pressionar o botão que contém uma seta. Projeto desenvolvido como dever de casa para a matéria de programação mobile a respeito de designs responsivos na Etec
+
+### Demonstração
+<div align="center">
+    <img width="250" alt="card-rpg-foto-1" src=".github/rpg-card-1.jpg" />
+    <img width="250" alt="card-rpg-foto-2" src=".github/rpg-card-4.jpg" />
+</div>
+<hr>
+
+
+## 📖 Aprendizado
+
+- Estilização condicional
+- Manipulação da orientação da tela com Expo
+- Captura da largura e altura da tela do dispositivo
+- Posição absoluta de elementos
+- Flexbox para alinhamento de elementos
+- Componentização do layout
+- Separação de pastas para cada componente
+- Ícones em React
+- Passagem de dados entre componentes
+
+<hr>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- **[React Native](https://expo.io/)**
+- **[Expo](https://expo.io/)**
+
+## Instalação e execução
+
+### Pré-requesitos
+
+Antes de baixar o projeto você vai precisar ter instalado na sua máquina as seguintes ferramentas:
+
+- [Git](https://git-scm.com)
+- [NodeJS](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/) ou [NPM](https://www.npmjs.com/)
+
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)<br>4
+
+> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo.
+
+#### 📟 Rodando o Mobile
+
+```bash
+# Clone este repositório
+$ git clone  https://github.com/JohnPetros/rpg-card.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd rpg-card
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npx expo start
+
+```
+---
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Feito com 💜 by João Pedro 👋🏻
