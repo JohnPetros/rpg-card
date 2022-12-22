@@ -20,14 +20,6 @@
 
 <br>
 
-<p align="center">
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-rodar-projeto">como-rodar-projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licenca">Licenca</a>
-</p>
-
 ## 🖥️ Projeto
 
 Card de personagem estilo RPG, contendo informações como nome, classe, nível, atributos de força, ataque, resistência e velociade. O card é adaptado para ser visualizado com a tela tanto em posição de paisagem quanto de retrato, podendo o usuário mudar para uma das duas posições ao pressionar o botão que contém uma seta. Projeto desenvolvido como dever de casa para a matéria de programação mobile a respeito de designs responsivos na Etec
