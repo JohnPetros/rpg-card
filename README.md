@@ -1,5 +1,5 @@
 <h1 align="center">
-    Card RPG
+    RPG Card
 </h1>
 
 <div align="center">
