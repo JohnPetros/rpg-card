@@ -30,7 +30,7 @@ Card de personagem estilo RPG, contendo informações como nome, classe, nível,
     &nbsp;&nbsp;&nbsp;
     <img width="250" alt="card-rpg-foto-2" src=".github/rpg-card-2.jpg" />
 </div>
-<hr>
+---
 
 
 ## 📖 Aprendizado
@@ -45,7 +45,7 @@ Card de personagem estilo RPG, contendo informações como nome, classe, nível,
 - Ícones em React
 - Passagem de dados entre componentes
 
-<hr>
+---
 
 ## 🚀 Tecnologias
 
@@ -84,8 +84,8 @@ $ npm install
 $ npx expo start
 
 ```
----
 
+---
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
