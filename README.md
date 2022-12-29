@@ -22,7 +22,7 @@
 
 ## 🖥️ Projeto
 
-Card de personagem estilo RPG, contendo informações como nome, classe, nível, atributos de força, ataque, resistência e velociade. O card é adaptado para ser visualizado com a tela tanto em posição de paisagem quanto de retrato, podendo o usuário mudar para uma das duas posições ao pressionar o botão que contém uma seta. Projeto desenvolvido como dever de casa para a disciplina de programação mobile a respeito de designs responsivos na Etec
+Card de personagem estilo RPG, contendo informações como nome, classe, nível, atributos de força, ataque, resistência e velociade. O card é adaptado para ser visualizado com a tela tanto em posição de paisagem quanto de retrato, podendo o usuário mudar para uma das duas posições ao pressionar o botão que contém uma seta. Projeto desenvolvido como dever de casa para a disciplina de programação mobile na Etec a respeito de designs responsivos.
 
 ### Demonstração
 <div align="center">
